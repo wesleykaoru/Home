@@ -1,0 +1,43 @@
+/* start da css for da buttons */
+.btn {
+  border-radius: 2px;
+  padding: 3px;
+  font-size: 9px;
+  text-decoration: none;
+  margin: 0px;
+  color: #fff;
+  position: relative;
+  display: inline-block;
+}
+
+.blue {
+  background-color: #55acee;
+  box-shadow: 0px 2px 0px 0px #3C93D5;
+}
+
+.green {
+  background-color: #2ecc71;
+  box-shadow: 0px 2px 0px 0px #15B358;
+}
+
+.red {
+  background-color: #e74c3c;
+  box-shadow: 0px 2px 0px 0px #CE3323;
+}
+
+.purple {
+  background-color: #9b59b6;
+  box-shadow: 0px 2px 0px 0px #82409D;
+}
+
+
+.orange {
+  background-color: #e67e22;
+  box-shadow: 0px 2px 0px 0px #CD6509;
+}
+
+.yellow {
+  background-color: #f1c40f;
+  box-shadow: 0px 2px 0px 0px #D8AB00;
+}
+
