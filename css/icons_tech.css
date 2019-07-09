@@ -1,8 +1,8 @@
 /* start da css for da buttons */
 .btn {
-  border-radius: 2px;
+  border-radius: 4px;
   padding: 3px;
-  font-size: 9px;
+  font-size: 12px;
   text-decoration: none;
   margin: 0px;
   color: #fff;
